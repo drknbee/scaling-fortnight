@@ -1,0 +1,22 @@
+{
+  "name": "test20221214wed",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drknbee/scaling-fortnight.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "tester",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drknbee/scaling-fortnight/issues"
+  },
+  "homepage": "https://github.com/drknbee/scaling-fortnight#readme"
+}
