@@ -2,7 +2,7 @@
   "name": "test20221214wed",
   "version": "1.0.0",
   "description": "test",
-  "main": "index.js",
+  "main": "test",
   "scripts": {
     "test": "test"
   },
@@ -13,7 +13,7 @@
   "keywords": [
     "test"
   ],
-  "author": "tester",
+  "author": "drknbee",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/drknbee/scaling-fortnight/issues"
